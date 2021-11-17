@@ -1,7 +1,7 @@
 import cv2
 import pandas as pd
 
-img_path = r'color_identification.html'
+img_path = r'color_identification.png'
 img = cv2.imread(img_path)
 
 # declaring global variables (are used later on)
